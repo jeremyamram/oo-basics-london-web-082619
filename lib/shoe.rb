@@ -39,7 +39,7 @@ def condition
   @condition
 end
 
-def cobble=(coble)
+def cobble=(cobble)
 end
 
 
